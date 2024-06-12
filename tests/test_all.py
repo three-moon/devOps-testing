@@ -1,5 +1,5 @@
 import pytest
-from src.main import *
+from src.main import hello, negative
 
 
 @pytest.fixture
